@@ -1,0 +1,301 @@
+productid,product_name,product_category,price_per_unit,stock_available,supplier
+1,Action Figure,Toys,224.8677486,385,Smith-Murphy
+2,Tablet,Electronics,652.3831867,204,Butler LLC
+3,Sofa,Furniture,933.6573007,136,Jennings-Bender
+4,Tablet,Electronics,129.220433,307,Knight and Sons
+5,Dress,Clothing,361.2746295,217,Howard and Sons
+6,Remote Control Car,Toys,978.2258717,385,"Adams, Castro and Harrington"
+7,Chair,Furniture,697.0174127,175,Smith Group
+8,Lipstick,Beauty,278.5740549,313,"Hernandez, Wolfe and Alexander"
+9,Smartphone,Electronics,391.0298887,213,"Dougherty, Murphy and Johnson"
+10,Perfume,Beauty,791.0976724,324,Brown-Terry
+11,Headphones,Electronics,703.1763738,149,"Weber, Griffin and Arnold"
+12,Puzzle,Toys,638.1526635,266,Johnson-Diaz
+13,Remote Control Car,Toys,929.5186667,35,"Mendez, Duran and Johnson"
+14,Football,Sports,70.82104846,149,Lopez PLC
+15,Jacket,Clothing,842.8767516,168,"Carr, Butler and White"
+16,Sweater,Clothing,264.939375,270,Wilson Inc
+17,Cricket Bat,Sports,347.5340669,399,Lara Inc
+18,Doll,Toys,128.8654345,210,"Herman, Henry and Waters"
+19,Tablet,Electronics,109.6043177,176,Thornton-Martinez
+20,Lego Set,Toys,842.0187623,42,Chapman-Sullivan
+21,Blush,Beauty,521.3585921,433,Rodriguez LLC
+22,Doll,Toys,210.634805,243,Donaldson-Warner
+23,Sofa,Furniture,59.6628118,120,Roberts and Sons
+24,Smartphone,Electronics,409.0361136,185,Lopez and Sons
+25,Lego Set,Toys,58.82789412,32,"Cook, Jimenez and West"
+26,Blush,Beauty,799.9323485,16,Pitts PLC
+27,Jacket,Clothing,872.6259887,360,White Inc
+28,Dress,Clothing,405.6848799,76,Hicks-Hale
+29,Cricket Bat,Sports,217.095728,238,Howard Ltd
+30,Foundation,Beauty,975.2827292,427,Peterson-Graham
+31,Tennis Racket,Sports,298.4436065,407,"Pearson, Ellis and White"
+32,Desk,Furniture,590.4507336,459,Hall-Fuentes
+33,Remote Control Car,Toys,872.0485627,477,"Collins, Maldonado and Morgan"
+34,Eyeliner,Beauty,369.6034419,19,"Burton, Sanchez and Mann"
+35,Table,Furniture,896.2148596,339,"Perez, Parker and Petersen"
+36,Tablet,Electronics,268.081727,330,Reyes Ltd
+37,Desk,Furniture,619.1727502,210,Brown Inc
+38,T-shirt,Clothing,985.7171959,269,"Hutchinson, Bryant and Simmons"
+39,Football,Sports,134.5517191,442,"Hayes, Harris and Delacruz"
+40,Bed,Furniture,583.0168328,425,"Hansen, Rice and Thomas"
+41,Foundation,Beauty,285.5455799,114,Barr Ltd
+42,Bed,Furniture,609.6647377,141,Ford and Sons
+43,Lipstick,Beauty,377.6747905,87,"Valencia, Jacobs and Stevens"
+44,Camera,Electronics,397.6917895,24,Bates-Tran
+45,Chair,Furniture,868.0330543,455,"King, Salazar and Barnes"
+46,Puzzle,Toys,13.21599896,197,Cruz-Clark
+47,Smartphone,Electronics,861.1337078,443,"Reed, Morris and Nichols"
+48,Jacket,Clothing,245.150082,80,Lewis-Reese
+49,Doll,Toys,941.9341927,105,Reed-Sosa
+50,Basketball,Sports,581.0527104,312,Price Ltd
+51,Puzzle,Toys,706.2846725,320,Thompson Inc
+52,Foundation,Beauty,153.5954242,167,Perkins-Leach
+53,Lipstick,Beauty,842.7540064,22,Adams LLC
+54,Jeans,Clothing,827.7146962,145,Schroeder-Berry
+55,Foundation,Beauty,20.49961459,179,"Smith, Taylor and Rodriguez"
+56,Remote Control Car,Toys,614.7395778,360,Moore Ltd
+57,Camera,Electronics,694.9144804,243,"Jimenez, Olson and Hebert"
+58,Smartphone,Electronics,665.5253901,22,Garcia-Hudson
+59,Laptop,Electronics,254.023751,233,Chandler-Cook
+60,Smartphone,Electronics,315.4478462,190,Murray-Rivera
+61,Tennis Racket,Sports,815.7887809,492,Long-Farmer
+62,Basketball,Sports,36.80367029,204,"Lopez, Miller and Harris"
+63,Bed,Furniture,873.5844145,358,Baker LLC
+64,Eyeliner,Beauty,449.9275278,192,Hood-Levine
+65,Tennis Racket,Sports,139.0930113,51,Carroll Inc
+66,Sofa,Furniture,863.1940217,471,"Gomez, Moore and Holt"
+67,Bed,Furniture,921.8668826,18,Hogan-Harris
+68,Table,Furniture,149.3025811,185,Snow-Newton
+69,Doll,Toys,993.919244,298,Riggs LLC
+70,Tennis Racket,Sports,93.95364966,412,George-Clark
+71,Smartphone,Electronics,558.4887759,210,"Ryan, Gray and Huff"
+72,Remote Control Car,Toys,795.0939925,249,"Todd, Townsend and Wagner"
+73,Basketball,Sports,450.7295672,206,Khan-Valenzuela
+74,Tennis Racket,Sports,912.156707,343,Parker and Sons
+75,Cricket Bat,Sports,306.0890279,121,"Johnson, Vazquez and Waters"
+76,Tablet,Electronics,115.1149473,113,"Kim, Franklin and Collins"
+77,Sofa,Furniture,225.2675316,308,Phillips PLC
+78,Basketball,Sports,190.6387624,345,Whitaker Ltd
+79,Sofa,Furniture,660.8805932,238,"Salazar, Hill and Mann"
+80,Dress,Clothing,931.9868195,147,Boyd Group
+81,Desk,Furniture,979.3351014,196,"Neal, Hudson and Estrada"
+82,Basketball,Sports,258.6328658,214,"Freeman, Griffith and Shepard"
+83,Desk,Furniture,102.1817619,400,Rocha-Harper
+84,Sweater,Clothing,591.8198669,490,Lopez-Powers
+85,Football,Sports,264.459694,270,"Fields, Miller and Pearson"
+86,Basketball,Sports,132.5920743,119,"Alexander, Wilson and Rodriguez"
+87,Headphones,Electronics,444.5550082,29,"Bartlett, Luna and Hunter"
+88,Cricket Bat,Sports,577.9017314,441,Stewart Group
+89,Bed,Furniture,317.1296485,96,Gutierrez Ltd
+90,Action Figure,Toys,763.6450368,90,Gonzalez Ltd
+91,Tennis Racket,Sports,246.4898213,93,Smith Group
+92,Eyeliner,Beauty,878.460691,33,Rivera and Sons
+93,Foundation,Beauty,771.450572,389,"Schmidt, Freeman and Craig"
+94,Remote Control Car,Toys,427.9715461,116,"Park, Wood and Doyle"
+95,Remote Control Car,Toys,267.9944304,471,Mata-Daniels
+96,Eyeliner,Beauty,678.1526813,124,Henson and Sons
+97,Basketball,Sports,85.94662275,108,Bowen and Sons
+98,Remote Control Car,Toys,37.72215752,50,Myers PLC
+99,Sofa,Furniture,64.75821483,41,Hanna-Ward
+100,Foundation,Beauty,252.3790145,158,Hensley LLC
+101,Basketball,Sports,752.1762997,118,"Dawson, Lee and Cook"
+102,Jacket,Clothing,666.5531585,84,"Barrera, Jones and Goodwin"
+103,Perfume,Beauty,711.0626283,297,Jimenez PLC
+104,Bed,Furniture,235.0572355,214,"Arnold, Nelson and Hess"
+105,Doll,Toys,508.3164302,84,Davis and Sons
+106,T-shirt,Clothing,220.3971871,308,Perez-Barnes
+107,Lipstick,Beauty,314.6550576,270,Montoya-Pitts
+108,Eyeliner,Beauty,156.8656462,266,Anthony-Hernandez
+109,Blush,Beauty,69.83176862,274,Wagner Inc
+110,Jacket,Clothing,95.43151384,200,"Farrell, Ibarra and Sandoval"
+111,Remote Control Car,Toys,609.3541901,409,Frank LLC
+112,Sweater,Clothing,685.6282658,299,Blankenship-Marks
+113,Perfume,Beauty,217.9380552,397,Cardenas-Crawford
+114,Eyeliner,Beauty,669.7492319,403,Campbell-Hamilton
+115,Dress,Clothing,156.9226935,92,Robinson and Sons
+116,Jacket,Clothing,65.09774375,295,Perez Group
+117,Action Figure,Toys,524.2891863,203,"Richard, Prince and Murphy"
+118,Remote Control Car,Toys,418.8356682,480,Villa PLC
+119,Tablet,Electronics,938.45666,115,Gonzalez Group
+120,Lego Set,Toys,176.0661656,100,Martinez PLC
+121,T-shirt,Clothing,338.6899643,453,Patton Group
+122,Action Figure,Toys,847.6985349,229,Waller and Sons
+123,Lipstick,Beauty,823.6783624,83,Smith-Chung
+124,Tablet,Electronics,322.8125572,247,Knight and Sons
+125,Chair,Furniture,948.1917461,445,Pollard and Sons
+126,Dress,Clothing,440.6823933,293,Alexander and Sons
+127,Tennis Racket,Sports,300.7941093,361,Baker-Brooks
+128,Jacket,Clothing,424.6840141,76,Morales-Lewis
+129,Chair,Furniture,799.6509082,341,Shepherd LLC
+130,Tablet,Electronics,32.814232,380,"Fields, Lin and Martinez"
+131,Headphones,Electronics,665.0845648,379,Zimmerman PLC
+132,Perfume,Beauty,883.2701192,264,Smith-Johnson
+133,Dress,Clothing,728.9011236,499,Martin LLC
+134,Tennis Racket,Sports,209.7829192,304,"Stein, Velasquez and Smith"
+135,Chair,Furniture,71.25870063,369,"Hill, Smith and Stokes"
+136,Laptop,Electronics,973.7140424,247,"Hudson, Martin and Odonnell"
+137,Headphones,Electronics,949.5106919,75,Yang Inc
+138,Remote Control Car,Toys,519.9938148,137,Jensen-Williams
+139,Puzzle,Toys,446.3316653,449,Robinson Group
+140,Bed,Furniture,999.4510927,248,Walton-Harrington
+141,Sweater,Clothing,935.9158478,499,Robinson Group
+142,Lipstick,Beauty,73.45254183,477,May and Sons
+143,Bed,Furniture,102.6624635,20,"Powell, Choi and Brown"
+144,Bed,Furniture,787.7237695,207,Solomon LLC
+145,Bed,Furniture,226.9070354,376,Miller and Sons
+146,Jeans,Clothing,348.2551852,405,Sanchez LLC
+147,Bed,Furniture,675.7760846,201,"Key, Miller and Friedman"
+148,Sofa,Furniture,137.0897018,338,Oconnor-Brown
+149,Sofa,Furniture,262.1497475,128,"Butler, Smith and Martinez"
+150,Cricket Bat,Sports,528.8422565,117,Graham-Solomon
+151,Doll,Toys,32.22265729,80,Castillo PLC
+152,Camera,Electronics,210.6109292,180,Gonzalez Inc
+153,Action Figure,Toys,258.8921111,446,Barber-Brady
+154,Jacket,Clothing,399.4718565,248,Jones-Carlson
+155,Tennis Racket,Sports,694.4253459,483,Martin-Griffin
+156,Lego Set,Toys,109.1799247,202,Woods Group
+157,Smartphone,Electronics,476.2213533,184,Cabrera-Salazar
+158,Blush,Beauty,788.6472992,432,"Clark, Benjamin and Dillon"
+159,Eyeliner,Beauty,60.66413295,126,Christian-Oliver
+160,Dress,Clothing,461.9015861,88,Doyle-Reeves
+161,Laptop,Electronics,673.7623121,474,Sanchez and Sons
+162,Tablet,Electronics,37.73684291,259,Maldonado LLC
+163,Tennis Racket,Sports,680.8866933,471,Mitchell-Fisher
+164,Headphones,Electronics,191.8872123,124,"Harris, Mclaughlin and George"
+165,Tennis Racket,Sports,78.18900413,195,Chambers-Keller
+166,Puzzle,Toys,330.7555091,299,Young-Rivera
+167,Tablet,Electronics,87.7126546,429,"Mills, Baker and Richards"
+168,Blush,Beauty,606.0632465,178,Chavez Ltd
+169,Action Figure,Toys,194.7465707,383,"Aguilar, Simpson and Barton"
+170,Eyeliner,Beauty,58.72285497,493,Smith-Simmons
+171,Perfume,Beauty,902.5805278,462,"Bailey, Ross and Bishop"
+172,Chair,Furniture,300.5844821,341,Ferguson LLC
+173,Cricket Bat,Sports,42.5896908,393,Sullivan PLC
+174,Cricket Bat,Sports,287.368478,95,Smith Inc
+175,Cricket Bat,Sports,618.5431802,468,White-Robinson
+176,T-shirt,Clothing,812.816564,317,"Stevens, Fernandez and Garrett"
+177,Blush,Beauty,384.4871343,266,Molina-Foster
+178,Camera,Electronics,152.9810085,59,Rodriguez and Sons
+179,Camera,Electronics,409.6149849,104,Barr Group
+180,Foundation,Beauty,218.0169184,128,"Osborne, Moreno and Irwin"
+181,Basketball,Sports,812.708898,73,Gomez Ltd
+182,Baseball Glove,Sports,401.9664259,351,Goodman Inc
+183,Cricket Bat,Sports,969.7813446,349,Williams-Durham
+184,Laptop,Electronics,744.1841568,122,"Lewis, Herrera and Todd"
+185,Table,Furniture,850.7470516,332,Johns and Sons
+186,Jeans,Clothing,781.4330413,232,Warner and Sons
+187,Eyeliner,Beauty,371.4311574,227,Nielsen-Jensen
+188,Basketball,Sports,127.5879377,35,"Mcdonald, Morales and White"
+189,Puzzle,Toys,724.1446507,406,Dorsey Group
+190,Lego Set,Toys,826.3520456,401,"Lewis, Morse and Steele"
+191,Perfume,Beauty,714.077145,118,Harris-Valencia
+192,Smartphone,Electronics,485.9631136,464,"Dixon, Chan and Atkinson"
+193,Remote Control Car,Toys,697.18132,41,"Howell, Marshall and Ferguson"
+194,Sofa,Furniture,345.1925248,488,Kelley and Sons
+195,Camera,Electronics,740.6432177,266,Jones and Sons
+196,Lego Set,Toys,758.9346974,384,Knox and Sons
+197,Jeans,Clothing,782.6071104,460,"Cabrera, Green and Anderson"
+198,Doll,Toys,108.1133027,343,Smith and Sons
+199,Doll,Toys,468.1841066,458,Smith Ltd
+200,Headphones,Electronics,787.4689059,196,Pruitt Ltd
+201,Tablet,Electronics,579.3452905,78,Orr-Nash
+202,Perfume,Beauty,457.9585281,330,Henderson-Potts
+203,Chair,Furniture,177.6256407,126,Williamson Group
+204,Tennis Racket,Sports,334.1191703,170,"Grant, Gray and Dunn"
+205,Headphones,Electronics,421.1700661,360,Hanson-Williamson
+206,Perfume,Beauty,428.1943835,236,Bass Ltd
+207,Perfume,Beauty,448.3349541,55,Allen Inc
+208,Sweater,Clothing,320.0968955,67,Martinez-Marshall
+209,Perfume,Beauty,966.4773356,247,Parker and Sons
+210,Puzzle,Toys,784.5852485,57,Torres Group
+211,Lego Set,Toys,862.1131969,434,"Kim, Hall and Garcia"
+212,Sofa,Furniture,194.648047,90,Gardner-Martinez
+213,Eyeliner,Beauty,764.7905878,171,"Hull, Mullins and Parker"
+214,Cricket Bat,Sports,841.9252993,407,"Gomez, Rodriguez and Paul"
+215,Chair,Furniture,656.3225861,179,Walsh-Anthony
+216,Tablet,Electronics,461.9178489,117,"Sanchez, Harrison and Ross"
+217,Dress,Clothing,686.7653661,176,Burton-Pitts
+218,Tablet,Electronics,204.2883709,276,Singh LLC
+219,Tablet,Electronics,791.3080602,186,"Dominguez, Calhoun and Johnson"
+220,Remote Control Car,Toys,298.4915586,414,Phelps-Hopkins
+221,Football,Sports,829.1624869,156,Blevins-Jones
+222,Chair,Furniture,471.3471273,273,Ross PLC
+223,Lego Set,Toys,600.8590213,349,Kim-Hughes
+224,Chair,Furniture,127.0817211,293,Green-Rodriguez
+225,Tennis Racket,Sports,759.1360863,415,Banks Group
+226,T-shirt,Clothing,469.5763396,29,Gonzales-Hill
+227,Basketball,Sports,863.7746415,147,"Lutz, Leonard and Anderson"
+228,Tennis Racket,Sports,444.4313175,344,Mendez-Ward
+229,Baseball Glove,Sports,109.4187665,306,Snyder-Hendrix
+230,Blush,Beauty,522.6495019,305,Murphy-Woods
+231,Bed,Furniture,435.9205294,128,"Stuart, Vasquez and Hall"
+232,Tennis Racket,Sports,659.7234631,389,Martin-Hayden
+233,Foundation,Beauty,280.925373,362,Stewart and Sons
+234,Sweater,Clothing,349.1241851,310,"Garrett, Moore and Lee"
+235,Smartphone,Electronics,128.0491261,500,"White, Murphy and Marquez"
+236,Camera,Electronics,954.7331422,203,"Gonzales, Freeman and Harvey"
+237,Tennis Racket,Sports,935.6881566,317,"Kemp, Nelson and Simpson"
+238,Basketball,Sports,23.95559087,107,"Bradley, Gonzalez and Johnston"
+239,Action Figure,Toys,316.5440655,408,"Hernandez, Mcdonald and Gonzalez"
+240,Laptop,Electronics,606.7511126,454,"Hall, Robinson and Burton"
+241,Lego Set,Toys,810.2998775,62,Hopkins-Harrell
+242,Dress,Clothing,362.7606041,230,Lawrence-Freeman
+243,Foundation,Beauty,564.9645231,401,Soto and Sons
+244,Dress,Clothing,581.3378863,488,"Shepherd, Holt and White"
+245,Laptop,Electronics,555.7885593,233,"Rivera, Williams and Black"
+246,Jeans,Clothing,772.5876517,22,"Gonzalez, Morris and Payne"
+247,Jeans,Clothing,783.201208,459,"Salas, Mcfarland and Green"
+248,Table,Furniture,418.6813076,453,"Aguirre, Mason and Campos"
+249,Camera,Electronics,162.1434732,124,Arnold Group
+250,Action Figure,Toys,65.07486612,137,Salazar-Saunders
+251,Basketball,Sports,285.0977528,191,Douglas and Sons
+252,Eyeliner,Beauty,790.2921798,298,"Neal, White and Patton"
+253,Eyeliner,Beauty,230.4726526,426,Harding LLC
+254,Sofa,Furniture,404.639628,162,"Byrd, Finley and Lopez"
+255,Jacket,Clothing,254.8520662,341,"Meyer, Holmes and Harrison"
+256,Sweater,Clothing,565.6860555,194,Williams-Baker
+257,Football,Sports,480.8478883,464,Hall Inc
+258,Lego Set,Toys,303.7754189,144,Hale Inc
+259,Sweater,Clothing,336.5377218,240,"Baker, Perkins and Harris"
+260,Football,Sports,321.0703027,493,Melendez-Gordon
+261,Laptop,Electronics,48.8829691,193,Meyers and Sons
+262,Blush,Beauty,143.8565856,57,"Bonilla, Neal and Kelly"
+263,Perfume,Beauty,730.0425194,475,"Contreras, Campos and Lee"
+264,Cricket Bat,Sports,668.5829942,381,"Cordova, Bowen and Khan"
+265,Tablet,Electronics,979.8884295,463,Cole Inc
+266,Eyeliner,Beauty,33.46425596,112,"Page, James and Evans"
+267,Sweater,Clothing,587.4513705,187,Gonzalez-Coleman
+268,Eyeliner,Beauty,898.8532298,218,Ware-Weber
+269,Doll,Toys,500.5463905,321,Farmer LLC
+270,Lego Set,Toys,616.8819731,186,Lucas-Blake
+271,Bed,Furniture,261.5328905,33,"Williams, Ray and Miller"
+272,Laptop,Electronics,935.6637127,153,Simmons Ltd
+273,Table,Furniture,789.7312746,485,"Rogers, James and Kelly"
+274,Cricket Bat,Sports,239.0884262,388,"Wilson, Webb and Kim"
+275,Eyeliner,Beauty,302.4668694,132,Hernandez and Sons
+276,Tablet,Electronics,320.1446077,57,"Gomez, Olson and Lewis"
+277,Headphones,Electronics,258.8438986,378,Singh-Owen
+278,Lego Set,Toys,101.7884781,133,"Parks, Hood and Thomas"
+279,Sweater,Clothing,336.0920764,34,Gallagher Ltd
+280,Camera,Electronics,212.5589176,204,Cantu Group
+281,Foundation,Beauty,563.1626903,474,Wells Inc
+282,Laptop,Electronics,483.48862,335,Barrett Inc
+283,Eyeliner,Beauty,456.6015181,152,Cobb PLC
+284,Camera,Electronics,110.5150954,126,"Caldwell, Guerrero and Hall"
+285,Football,Sports,379.0014048,250,"Oconnor, Lam and Lewis"
+286,Jeans,Clothing,25.94016298,299,Casey Group
+287,T-shirt,Clothing,916.2472418,25,Bishop-Harris
+288,Perfume,Beauty,301.4846941,205,Stevens-Smith
+289,Smartphone,Electronics,69.72257957,35,"Stark, Lopez and Williams"
+290,Chair,Furniture,396.843844,411,Wallace-Gardner
+291,Dress,Clothing,65.14235395,195,Morgan Inc
+292,Blush,Beauty,696.0171281,226,Diaz-Hernandez
+293,Chair,Furniture,288.0787404,86,Johnson LLC
+294,Baseball Glove,Sports,840.6297928,468,"Miller, Lopez and Harrington"
+295,Tablet,Electronics,810.9315531,55,Hill-Morgan
+296,Tennis Racket,Sports,235.0837086,128,Curtis and Sons
+297,Football,Sports,323.6838925,207,"Ochoa, Kramer and Brown"
+298,Perfume,Beauty,511.5575264,110,Flores Ltd
+299,Chair,Furniture,718.463214,371,"Steele, Marshall and Smith"
+300,Basketball,Sports,66.94901612,490,"Thomas, Smith and Wallace"
